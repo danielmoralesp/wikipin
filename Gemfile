@@ -5,6 +5,8 @@ gem 'rails', '~> 5.1.4'
 
 gem 'spring', :group => :development
 
+gem 'listen'
+
 gem 'pg'
 
 gem 'rgeo-activerecord'
